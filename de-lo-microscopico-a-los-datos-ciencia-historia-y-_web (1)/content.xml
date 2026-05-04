@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505011354NX2G8L</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505011354OYJFUG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>De lo microscópico a los datos: ciencia, historia y divulgación</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara Fernández Quintana</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777930404792</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>De lo
+microscópico a los datos: ciencia, historia y divulgación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>De lo
+microscópico a los datos: ciencia, historia y divulgación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>De lo
+microscópico a los datos: ciencia, historia y divulgación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+      <odeBlockId>block-1777930513260-yjhcrwui7</odeBlockId>
+      <blockName>ETAPA EDUCATIVA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+          <odeBlockId>block-1777930513260-yjhcrwui7</odeBlockId>
+          <odeIdeviceId>idevice-1777930513254-4zqmt690p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>4º ESO: PDC</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777930513254-4zqmt690p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>4º ESO: PDC</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+      <odeBlockId>block-1777930600138-qtn5je29z</odeBlockId>
+      <blockName>ÁREA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+          <odeBlockId>block-1777930600138-qtn5je29z</odeBlockId>
+          <odeIdeviceId>idevice-1777930600130-821bp7ysr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>·  Física y Química </p>
+<p>·  Biología y Geología </p>
+<p>·  Matemáticas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777930600130-821bp7ysr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>·  Física y Química </p>\n<p>·  Biología y Geología </p>\n<p>·  Matemáticas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+      <odeBlockId>block-1777930679436-6qojao8ei</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+          <odeBlockId>block-1777930679436-6qojao8ei</odeBlockId>
+          <odeIdeviceId>idevice-1777930679431-70mxaj2ge</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al ser una clase de 10 alumnos se realizan dos equipos de 3 personas y otros dos de 2 personas cada uno</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777930679431-70mxaj2ge","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al ser una clase de 10 alumnos se realizan dos equipos de 3 personas y otros dos de 2 personas cada uno</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+      <odeBlockId>block-1777930851272-y465l7niy</odeBlockId>
+      <blockName>TEMPORALIZACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+          <odeBlockId>block-1777930851272-y465l7niy</odeBlockId>
+          <odeIdeviceId>idevice-1777930851266-gcvsqzfog</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se desarrollará en 10/12 sesiones durante la segunda evaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777930851266-gcvsqzfog","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se desarrollará en 10/12 sesiones durante la segunda evaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+      <odeBlockId>block-1777930927162-my43ezhzt</odeBlockId>
+      <blockName>DESCRIPCIÓN DE LA ACTIVIDAD</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+          <odeBlockId>block-1777930927162-my43ezhzt</odeBlockId>
+          <odeIdeviceId>idevice-1777930927159-8lhfq92ir</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Los alumnos deben elegir entre los siguientes trabajos:</p>
+<p>·         Elaboración de un mural en cartulina y una infografía digital sobre los modelos atómicos. (2 personas)</p>
+<p>·         Realización de un vídeo sobre la mitosis. (2 personas)</p>
+<p>·         Análisis de datos y cálculo de parámetros estadísticos. (3 personas)</p>
+<p>·          Creación de una presentación digital sobre 20 científicas y científicos relevantes, incluyendo año de nacimiento y muerte, imagen de la persona y mayor aportación a la ciencia.  (3 personas)</p>
+<p> </p>
+<p>2.       Se hará una exposición oral final integrando todos los productos elaborados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777930927159-8lhfq92ir","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Los alumnos deben elegir entre los siguientes trabajos:</p>\n<p>·         Elaboración de un mural en cartulina y una infografía digital sobre los modelos atómicos. (2 personas)</p>\n<p>·         Realización de un vídeo sobre la mitosis. (2 personas)</p>\n<p>·         Análisis de datos y cálculo de parámetros estadísticos. (3 personas)</p>\n<p>·          Creación de una presentación digital sobre 20 científicas y científicos relevantes, incluyendo año de nacimiento y muerte, imagen de la persona y mayor aportación a la ciencia.  (3 personas)</p>\n<p> </p>\n<p>2.       Se hará una exposición oral final integrando todos los productos elaborados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+      <odeBlockId>block-1777931218497-05hecp2db</odeBlockId>
+      <blockName>HERRAMIENTAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odePageId>
+          <odeBlockId>block-1777931218497-05hecp2db</odeBlockId>
+          <odeIdeviceId>idevice-1777931218490-lstudwpx2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>·  Vídeos educativos (mitosis y parámetros estadísticos) </p>
+<p>·   Herramientas de edición de videos (stream, capcut..)</p>
+<p>·  Presentaciones digitales </p>
+<p>·  Herramientas digitales (Canva, Genially, PowerPoint, …) </p>
+<p>·  Fichas guiadas </p>
+<p>·  Aula virtual</p>
+<p>·   Teams</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777931218490-lstudwpx2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>·  Vídeos educativos (mitosis y parámetros estadísticos) </p>\n<p>·   Herramientas de edición de videos (stream, capcut..)</p>\n<p>·  Presentaciones digitales </p>\n<p>·  Herramientas digitales (Canva, Genially, PowerPoint, …) </p>\n<p>·  Fichas guiadas </p>\n<p>·  Aula virtual</p>\n<p>·   Teams</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777931541125-d7giv1j2y</odePageId>
+  <odeParentPageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odeParentPageId>
+  <pageName>1.INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777931541125-d7giv1j2y</odePageId>
+      <odeBlockId>block-1777931548501-bnm7du29p</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777931541125-d7giv1j2y</odePageId>
+          <odeBlockId>block-1777931548501-bnm7du29p</odeBlockId>
+          <odeIdeviceId>idevice-1777931548494-ohyv7seuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Justificación de su desarrollo y el impacto esperado</strong></li>
+</ul>
+<p>En el programa de diversificación curricular las materias de ciencias se integran en el ámbito científico tecnológico.</p>
+<p>Esta evaluación estamos viendo la célula y en la parte matemática estadística y probabilidad; es por ello que en esta situación de aprendizaje se pretende desarrollar la competencia científica, digital y matemática del alumnado mediante la comprensión de modelos científicos, procesos biológicos y el análisis de datos, a la vez que se potencia la divulgación científica, el trabajo cooperativo y el reconocimiento del papel de científicas y científicos en la construcción del conocimiento.</p>
+<ul>
+<li><strong>Relación de la SdA con los ODS y Retos del siglo XXI.</strong><strong></strong>
+<p>·  ODS 4: Educación de calidad </p>
+<p>·  ODS 5: Igualdad de género </p>
+<p>·  ODS 9: Industria, innovación e investigación</p>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777931548494-ohyv7seuf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Justificación de su desarrollo y el impacto esperado</strong></li>\n</ul>\n<p>En el programa de diversificación curricular las materias de ciencias se integran en el ámbito científico tecnológico.</p>\n<p>Esta evaluación estamos viendo la célula y en la parte matemática estadística y probabilidad; es por ello que en esta situación de aprendizaje se pretende desarrollar la competencia científica, digital y matemática del alumnado mediante la comprensión de modelos científicos, procesos biológicos y el análisis de datos, a la vez que se potencia la divulgación científica, el trabajo cooperativo y el reconocimiento del papel de científicas y científicos en la construcción del conocimiento.</p>\n<ul>\n<li><strong>Relación de la SdA con los ODS y Retos del siglo XXI.</strong><strong></strong>\n<p>·  ODS 4: Educación de calidad </p>\n<p>·  ODS 5: Igualdad de género </p>\n<p>·  ODS 9: Industria, innovación e investigación</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777931541125-d7giv1j2y</odePageId>
+      <odeBlockId>block-1777931582511-l6v78qy57</odeBlockId>
+      <blockName>2. ELEMENTOS CURRICULARES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777931541125-d7giv1j2y</odePageId>
+          <odeBlockId>block-1777931582511-l6v78qy57</odeBlockId>
+          <odeIdeviceId>idevice-1777931582506-fm2oyug6d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencias clave (descriptores operativos/perfil de salida).</li>
+</ul>
+<p>MATEMÁTICAS</p>
+<p>4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos, para modelizar situaciones y resolver problemas de forma eficaz.</p>
+<p>STEM1, STEM2, STEM3, CD2, CD3, CD5, CE3</p>
+<p>9. Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas.</p>
+<p>STEM5, CPSAA1, CPSAA4, CPSAA5, CE2, CE3</p>
+<p>10. Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.</p>
+<p>CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3</p>
+<p>BIOLOGÍA</p>
+<p>4. Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje. </p>
+<p>CCL2, CCL3, STEM4, CD1, CD2, CPSAA3, CE3, CCEC4 </p>
+<p>FÍSICA Y QUÍMICA</p>
+<p>5.Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medio ambiente.</p>
+<p>6. Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a ella, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social. </p>
+<p>STEM2, STEM5, CD4, CPSAA1, CPSAA4, CC4, CCEC1 </p>
+<p></p>
+<p>CCL5, CP3, STEM3, STEM5, CD3, CPSAA3, CC3, CE2</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777931582506-fm2oyug6d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencias clave (descriptores operativos/perfil de salida).</li>\n</ul>\n<p>MATEMÁTICAS</p>\n<p>4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos, para modelizar situaciones y resolver problemas de forma eficaz.</p>\n<p>STEM1, STEM2, STEM3, CD2, CD3, CD5, CE3</p>\n<p>9. Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas.</p>\n<p>STEM5, CPSAA1, CPSAA4, CPSAA5, CE2, CE3</p>\n<p>10. Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.</p>\n<p>CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3</p>\n<p>BIOLOGÍA</p>\n<p>4. Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje. </p>\n<p>CCL2, CCL3, STEM4, CD1, CD2, CPSAA3, CE3, CCEC4 </p>\n<p>FÍSICA Y QUÍMICA</p>\n<p>5.Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medio ambiente.</p>\n<p>6. Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a ella, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social. </p>\n<p>STEM2, STEM5, CD4, CPSAA1, CPSAA4, CC4, CCEC1 </p>\n<p></p>\n<p>CCL5, CP3, STEM3, STEM5, CD3, CPSAA3, CC3, CE2</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777932806354-b4x43cp4c</odePageId>
+  <odeParentPageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odeParentPageId>
+  <pageName>2. ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777932806354-b4x43cp4c</odePageId>
+      <odeBlockId>block-1777932806354-w68dj5cba</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777932806354-b4x43cp4c</odePageId>
+          <odeBlockId>block-1777932806354-w68dj5cba</odeBlockId>
+          <odeIdeviceId>idevice-1777932806354-mshkey87q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencias clave (descriptores operativos/perfil de salida).</li>
+</ul>
+<p>MATEMÁTICAS</p>
+<p>4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos, para modelizar situaciones y resolver problemas de forma eficaz.</p>
+<p>STEM1, STEM2, STEM3, CD2, CD3, CD5, CE3</p>
+<p>9. Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas.</p>
+<p>STEM5, CPSAA1, CPSAA4, CPSAA5, CE2, CE3</p>
+<p>10. Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.</p>
+<p>CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3</p>
+<p>BIOLOGÍA</p>
+<p>4. Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje. </p>
+<p>CCL2, CCL3, STEM4, CD1, CD2, CPSAA3, CE3, CCEC4 </p>
+<p>FÍSICA Y QUÍMICA</p>
+<p>5.Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medio ambiente.</p>
+<p>6. Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a ella, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social. </p>
+<p>STEM2, STEM5, CD4, CPSAA1, CPSAA4, CC4, CCEC1 </p>
+<p></p>
+<p>CCL5, CP3, STEM3, STEM5, CD3, CPSAA3, CC3, CE2</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777931582506-fm2oyug6d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencias clave (descriptores operativos/perfil de salida).</li>\n</ul>\n<p>MATEMÁTICAS</p>\n<p>4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos, para modelizar situaciones y resolver problemas de forma eficaz.</p>\n<p>STEM1, STEM2, STEM3, CD2, CD3, CD5, CE3</p>\n<p>9. Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas.</p>\n<p>STEM5, CPSAA1, CPSAA4, CPSAA5, CE2, CE3</p>\n<p>10. Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.</p>\n<p>CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3</p>\n<p>BIOLOGÍA</p>\n<p>4. Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje. </p>\n<p>CCL2, CCL3, STEM4, CD1, CD2, CPSAA3, CE3, CCEC4 </p>\n<p>FÍSICA Y QUÍMICA</p>\n<p>5.Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medio ambiente.</p>\n<p>6. Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a ella, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social. </p>\n<p>STEM2, STEM5, CD4, CPSAA1, CPSAA4, CC4, CCEC1 </p>\n<p></p>\n<p>CCL5, CP3, STEM3, STEM5, CD3, CPSAA3, CC3, CE2</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777933020984-0czl8rxa4</odePageId>
+  <odeParentPageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odeParentPageId>
+  <pageName>3. METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777933020984-0czl8rxa4</odePageId>
+      <odeBlockId>block-1777933020985-dpb4ggflq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777933020984-0czl8rxa4</odePageId>
+          <odeBlockId>block-1777933020985-dpb4ggflq</odeBlockId>
+          <odeIdeviceId>idevice-1777933020985-sxtdsdqt4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Aprendizaje basado en proyecto</li>
+<li>Aprendizaje cooperativo</li>
+<li>Flipped learning</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777933020985-sxtdsdqt4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Aprendizaje basado en proyecto</li>\n<li>Aprendizaje cooperativo</li>\n<li>Flipped learning</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777933030850-fylsx6if3</odePageId>
+  <odeParentPageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odeParentPageId>
+  <pageName>4.VINCULACIÓN
+CON PLANES PROGRAMAS Y PROYECTOS DE CENTRO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.VINCULACIÓN
+CON PLANES PROGRAMAS Y PROYECTOS DE CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.VINCULACIÓN
+CON PLANES PROGRAMAS Y PROYECTOS DE CENTRO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777933030850-fylsx6if3</odePageId>
+      <odeBlockId>block-1777933030850-i47meq3cd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777933030850-fylsx6if3</odePageId>
+          <odeBlockId>block-1777933030850-i47meq3cd</odeBlockId>
+          <odeIdeviceId>idevice-1777933030850-sp3vkjnjo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Plan de coeducación</li>
+<li>Proyecto de competencia digital</li>
+<li>Plan lector y de comunicación lingüística</li>
+<li>Programa STEAM</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777933030850-sp3vkjnjo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Plan de coeducación</li>\n<li>Proyecto de competencia digital</li>\n<li>Plan lector y de comunicación lingüística</li>\n<li>Programa STEAM</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777933037781-273adli3p</odePageId>
+  <odeParentPageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odeParentPageId>
+  <pageName>5.ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777933037781-273adli3p</odePageId>
+      <odeBlockId>block-1777933037781-nt99tp3n1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777933037781-273adli3p</odePageId>
+          <odeBlockId>block-1777933037781-nt99tp3n1</odeBlockId>
+          <odeIdeviceId>idevice-1777933037781-5cnkpjree</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Celebración del Día Internacional de la Mujer y la Niña en la Ciencia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777933037781-5cnkpjree","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Celebración del Día Internacional de la Mujer y la Niña en la Ciencia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777933043973-dcj78rwcs</odePageId>
+  <odeParentPageId>d0dcbbf9-f604-498c-bcb4-1e07943e55dd</odeParentPageId>
+  <pageName>6. ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777933043973-dcj78rwcs</odePageId>
+      <odeBlockId>block-1777933043973-kmbvpb7zy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777933043973-dcj78rwcs</odePageId>
+          <odeBlockId>block-1777933043973-kmbvpb7zy</odeBlockId>
+          <odeIdeviceId>idevice-1777933043973-ps2shrje1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso educativo está licenciado bajo<br />Creative Commons Reconocimiento–NoComercial–CompartirIgual (CC BY-NC-SA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777933043973-ps2shrje1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo está licenciado bajo<br />Creative Commons Reconocimiento–NoComercial–CompartirIgual (CC BY-NC-SA).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
